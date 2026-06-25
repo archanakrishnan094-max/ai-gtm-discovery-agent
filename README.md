@@ -66,7 +66,7 @@ This project helps GTM and Solutions teams:
 
 Watch the full walkthrough:
 
-https://your-loom-video-link
+https://www.loom.com/share/19174ec0c8e245c792bb7ea6d23b8885
 
 ## Future Improvements
 
